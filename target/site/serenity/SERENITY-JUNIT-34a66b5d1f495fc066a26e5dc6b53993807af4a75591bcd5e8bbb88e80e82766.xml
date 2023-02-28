@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.crudtests.ProductsCRUDTest" skipped="0" tests="1" time="2.74" timestamp="2023-02-28T11:45:32.419Z[Europe/London]"><testcase classname="com.bestbuy.crudtests.ProductsCRUDTest" name="Verify if product was created"/></testsuite>

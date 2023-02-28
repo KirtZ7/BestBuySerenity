@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.crudtests.ProductsCRUDTest" skipped="0" tests="1" time="1.69" timestamp="2023-02-28T12:10:25.051Z[Europe/London]"><testcase classname="com.bestbuy.crudtests.ProductsCRUDTest" name="Delete product Data"><error message="firstParameterValue cannot be null" type="java.lang.IllegalArgumentException">firstParameterValue cannot be null</error><system-err>firstParameterValue cannot be null&#13;
+io.restassured.internal.assertion.AssertParameter.notNull(AssertParameter.groovy:26)&#13;
+io.restassured.internal.RequestSpecificationImpl.pathParameters(RequestSpecificationImpl.groovy:567)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1213)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1022)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:810)&#13;
+io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)&#13;
+io.restassured.internal.RequestSpecificationImpl.pathParams(RequestSpecificationImpl.groovy:582)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationParametersConfigurations.pathParams(RequestSpecificationParametersConfigurations.java:194)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated.pathParams(RequestSpecificationDecorated.java:27)&#13;
+com.bestbuy.crudtests.ProductsCRUDTest.test004(ProductsCRUDTest.java:113)&#13;
+</system-err></testcase></testsuite>
